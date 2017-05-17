@@ -2,4 +2,4 @@
 
 Custom Scrollbars and Checkbox, Radio in WebKit
 
-[logo]: https://github.com/encoreshao/custom-css-in-webkit/raw/master/images/demo.png "Demo"
+![Demo Image](https://github.com/encoreshao/custom-css-in-webkit/blob/master/images/demo.png)
